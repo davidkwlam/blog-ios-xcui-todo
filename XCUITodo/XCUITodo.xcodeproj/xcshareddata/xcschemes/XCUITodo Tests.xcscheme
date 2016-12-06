@@ -35,8 +35,8 @@
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
+            buildForTesting = "NO"
+            buildForRunning = "NO"
             buildForProfiling = "NO"
             buildForArchiving = "NO"
             buildForAnalyzing = "NO">
@@ -64,16 +64,6 @@
                BlueprintIdentifier = "3FC835BC1B6155AD0018BADD"
                BuildableName = "XCUITodoTests.xctest"
                BlueprintName = "XCUITodoTests"
-               ReferencedContainer = "container:XCUITodo.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3FC835C71B6155AD0018BADD"
-               BuildableName = "XCUITodoUITests.xctest"
-               BlueprintName = "XCUITodoUITests"
                ReferencedContainer = "container:XCUITodo.xcodeproj">
             </BuildableReference>
          </TestableReference>
